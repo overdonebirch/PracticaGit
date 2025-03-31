@@ -1,5 +1,5 @@
 const sayHi = () => {
-    console.log("hola")
+    console.log("hola desde local")
 }
 
 sayHi();
